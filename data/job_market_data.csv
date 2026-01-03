@@ -1,0 +1,202 @@
+work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size,work_setting
+2024,Entry,FT,Data Analyst,50000,USD,50000,US,0,US,M,On-site
+2024,Entry,FT,Junior Data Engineer,52000,USD,52000,US,50,US,L,Hybrid
+2024,Entry,FT,AI Research Assistant,65000,USD,65000,US,100,US,S,Remote
+2024,Entry,FT,Business Intelligence Analyst,48000,USD,48000,US,0,US,M,On-site
+2024,Mid,FT,Data Scientist,95000,USD,95000,US,100,US,M,Remote
+2024,Mid,FT,Machine Learning Engineer,105000,USD,105000,US,50,US,L,Hybrid
+2024,Mid,FT,Data Analyst,80000,USD,80000,US,0,US,M,On-site
+2024,Senior,FT,Senior Data Scientist,140000,USD,140000,US,100,US,L,Remote
+2024,Senior,FT,Lead AI Engineer,160000,USD,160000,US,0,US,M,On-site
+2024,Executive,FT,Head of Data,200000,USD,200000,US,50,US,L,Hybrid
+2024,Executive,FT,Director of Data Science,220000,USD,220000,US,100,US,M,Remote
+2024,Entry,FT,Data Entry Specialist,40000,USD,40000,US,100,US,S,Remote
+2024,Mid,FT,Analytics Engineer,90000,USD,90000,US,50,US,M,Hybrid
+2024,Senior,FT,Principal Data Analyst,130000,USD,130000,US,0,US,L,On-site
+2024,Mid,FT,AI Developer,110000,USD,110000,US,100,US,S,Remote
+2024,Entry,FT,Junior AI Engineer,70000,USD,70000,US,50,US,M,Hybrid
+2024,Senior,FT,Data Architect,145000,USD,145000,US,100,US,L,Remote
+2024,Mid,FT,Big Data Engineer,100000,USD,100000,US,0,US,M,On-site
+2024,Executive,FT,Chief Data Officer,230000,USD,230000,US,0,US,L,On-site
+2024,Senior,FT,NLP Engineer,155000,USD,155000,US,100,US,S,Remote
+2024,Mid,FT,Marketing Data Analyst,82000,USD,82000,US,50,US,M,Hybrid
+2024,Entry,FT,Data Science Intern,45000,USD,45000,US,100,US,M,Remote
+2024,Senior,FT,Computer Vision Engineer,150000,USD,150000,US,50,US,L,Hybrid
+2024,Mid,FT,Data Scientist,98000,USD,98000,US,0,US,M,On-site
+2024,Entry,FT,Junior Data Analyst,51000,USD,51000,US,0,US,S,On-site
+2024,Senior,FT,Senior AI Scientist,165000,USD,165000,US,100,US,M,Remote
+2024,Mid,FT,Database Administrator,85000,USD,85000,US,50,US,L,Hybrid
+2024,Executive,FT,VP of Data,210000,USD,210000,US,100,US,L,Remote
+2024,Entry,FT,Data Coordinator,47000,USD,47000,US,0,US,M,On-site
+2024,Mid,FT,BI Developer,88000,USD,88000,US,100,US,S,Remote
+2024,Senior,FT,Staff Data Engineer,138000,USD,138000,US,50,US,M,Hybrid
+2024,Mid,FT,Machine Learning Specialist,108000,USD,108000,US,0,US,L,On-site
+2024,Entry,FT,Associate Data Scientist,68000,USD,68000,US,100,US,M,Remote
+2024,Senior,FT,Machine Learning Architect,158000,USD,158000,US,0,US,S,On-site
+2024,Mid,FT,Financial Data Analyst,83000,USD,83000,US,50,US,L,Hybrid
+2024,Senior,FT,Lead Data Scientist,148000,USD,148000,US,100,US,M,Remote
+2024,Executive,FT,Data Strategy Director,195000,USD,195000,US,50,US,L,Hybrid
+2024,Entry,FT,Junior ML Engineer,72000,USD,72000,US,0,US,M,On-site
+2024,Mid,FT,Data Quality Analyst,78000,USD,78000,US,100,US,S,Remote
+2024,Senior,FT,Senior Data Engineer,142000,USD,142000,US,50,US,L,Hybrid
+2024,Mid,FT,AI Consultant,115000,USD,115000,US,0,US,M,On-site
+2024,Entry,FT,Research Analyst,49000,USD,49000,US,100,US,L,Remote
+2024,Senior,FT,Deep Learning Engineer,162000,USD,162000,US,50,US,S,Hybrid
+2024,Mid,FT,Product Data Analyst,86000,USD,86000,US,0,US,M,On-site
+2024,Executive,FT,Director of AI,225000,USD,225000,US,100,US,L,Remote
+2024,Entry,FT,Data Analyst,53000,USD,53000,US,50,US,M,Hybrid
+2024,Mid,FT,Data Scientist,96000,USD,96000,US,0,US,L,On-site
+2024,Senior,FT,Senior Analytics Engineer,135000,USD,135000,US,100,US,M,Remote
+2024,Mid,FT,ETL Developer,92000,USD,92000,US,50,US,S,Hybrid
+2024,Entry,FT,Junior Data Scientist,66000,USD,66000,US,0,US,M,On-site
+2024,Senior,FT,Lead Machine Learning Engineer,152000,USD,152000,US,100,US,L,Remote
+2024,Mid,FT,Data Operations Manager,94000,USD,94000,US,50,US,M,Hybrid
+2024,Entry,FT,BI Analyst,50000,USD,50000,US,0,US,S,On-site
+2024,Senior,FT,Senior BI Developer,128000,USD,128000,US,100,US,L,Remote
+2024,Mid,FT,Data Visualization Specialist,87000,USD,87000,US,50,US,M,Hybrid
+2024,Executive,FT,Head of Analytics,190000,USD,190000,US,0,US,L,On-site
+2024,Entry,FT,Junior Analytics Consultant,54000,USD,54000,US,100,US,S,Remote
+2024,Mid,FT,AI Engineer,112000,USD,112000,US,0,US,M,On-site
+2024,Senior,FT,Manager Data Science,146000,USD,146000,US,50,US,L,Hybrid
+2024,Mid,FT,Applied Scientist,102000,USD,102000,US,100,US,M,Remote
+2024,Entry,FT,Trainee Data Analyst,42000,USD,42000,US,0,US,S,On-site
+2024,Senior,FT,Senior Data Architect,144000,USD,144000,US,50,US,L,Hybrid
+2024,Mid,FT,Data Modeler,91000,USD,91000,US,0,US,M,On-site
+2024,Executive,FT,Chief AI Officer,240000,USD,240000,US,100,US,L,Remote
+2024,Entry,FT,Data Specialist,46000,USD,46000,US,50,US,S,Hybrid
+2024,Mid,FT,Data Analyst,81000,USD,81000,US,100,US,M,Remote
+2024,Senior,FT,Lead Data Engineer,139000,USD,139000,US,0,US,L,On-site
+2024,Mid,FT,Machine Learning Engineer,106000,USD,106000,US,50,US,M,Hybrid
+2024,Entry,FT,Junior BI Analyst,49000,USD,49000,US,0,US,S,On-site
+2024,Senior,FT,Principal Data Scientist,155000,USD,155000,US,100,US,L,Remote
+2024,Mid,FT,Statistician,89000,USD,89000,US,50,US,M,Hybrid
+2024,Executive,FT,VP of Engineering (Data),215000,USD,215000,US,0,US,L,On-site
+2024,Entry,FT,Junior Data Engineer,53000,USD,53000,US,100,US,M,Remote
+2024,Mid,FT,Data Scientist,97000,USD,97000,US,50,US,S,Hybrid
+2024,Senior,FT,Senior AI Engineer,161000,USD,161000,US,0,US,L,On-site
+2024,Mid,FT,Business Data Analyst,79000,USD,79000,US,100,US,M,Remote
+2024,Entry,FT,Entry Level Data Analyst,48000,USD,48000,US,0,US,S,On-site
+2024,Senior,FT,Staff Machine Learning Engineer,159000,USD,159000,US,50,US,L,Hybrid
+2024,Mid,FT,Data Infrastructure Engineer,99000,USD,99000,US,0,US,M,On-site
+2024,Executive,FT,Global Head of Data,205000,USD,205000,US,100,US,L,Remote
+2024,Entry,FT,Junior AI Researcher,69000,USD,69000,US,50,US,S,Hybrid
+2024,Mid,FT,Data Analyst,84000,USD,84000,US,0,US,M,On-site
+2024,Senior,FT,Senior NLP Specialist,156000,USD,156000,US,100,US,L,Remote
+2024,Mid,FT,Cloud Data Engineer,101000,USD,101000,US,50,US,M,Hybrid
+2024,Entry,FT,Data Assistant,44000,USD,44000,US,0,US,S,On-site
+2024,Senior,FT,Lead Analytics Consultant,136000,USD,136000,US,100,US,L,Remote
+2024,Mid,FT,Machine Learning Developer,107000,USD,107000,US,0,US,M,On-site
+2024,Executive,FT,Director of Machine Learning,218000,USD,218000,US,50,US,L,Hybrid
+2024,Entry,FT,Graduate Data Analyst,51000,USD,51000,US,100,US,S,Remote
+2024,Mid,FT,Data Scientist,93000,USD,93000,US,0,US,M,On-site
+2024,Senior,FT,Senior Computer Vision Engineer,153000,USD,153000,US,50,US,L,Hybrid
+2024,Mid,FT,AI Specialist,111000,USD,111000,US,100,US,M,Remote
+2024,Entry,FT,Junior Data Specialist,47000,USD,47000,US,0,US,S,On-site
+2024,Senior,FT,Principal AI Engineer,163000,USD,163000,US,50,US,L,Hybrid
+2024,Mid,FT,Marketing Analyst,77000,USD,77000,US,0,US,M,On-site
+2024,Executive,FT,Chief Data Scientist,235000,USD,235000,US,100,US,L,Remote
+2024,Entry,FT,Data Science Associate,67000,USD,67000,US,50,US,S,Hybrid
+2024,Mid,FT,Data Engineer,98000,USD,98000,US,100,US,M,Remote
+2024,Senior,FT,Senior Data Operations Engineer,137000,USD,137000,US,0,US,L,On-site
+2024,Mid,FT,Machine Learning Analyst,104000,USD,104000,US,50,US,M,Hybrid
+2024,Entry,FT,Data Technician,43000,USD,43000,US,0,US,S,On-site
+2024,Senior,FT,Data Science Lead,149000,USD,149000,US,100,US,L,Remote
+2024,Mid,FT,Insight Analyst,80000,USD,80000,US,50,US,M,Hybrid
+2024,Executive,FT,VP of Data Analytics,208000,USD,208000,US,0,US,L,On-site
+2024,Entry,FT,Junior Statistician,52000,USD,52000,US,100,US,S,Remote
+2024,Mid,FT,AI Product Manager,118000,USD,118000,US,0,US,M,On-site
+2024,Senior,FT,Senior Research Scientist,151000,USD,151000,US,50,US,L,Hybrid
+2024,Mid,FT,Data Scientist,94000,USD,94000,US,100,US,M,Remote
+2024,Entry,FT,Junior Data Consultant,55000,USD,55000,US,0,US,S,On-site
+2024,Senior,FT,Lead Data Architect,147000,USD,147000,US,50,US,L,Hybrid
+2024,Mid,FT,Python Developer (Data),100000,USD,100000,US,0,US,M,On-site
+2024,Executive,FT,Head of Data Engineering,198000,USD,198000,US,100,US,L,Remote
+2024,Entry,FT,Business Intelligence Intern,46000,USD,46000,US,50,US,S,Hybrid
+2024,Mid,FT,Data Analyst,83000,USD,83000,US,0,US,M,On-site
+2024,Senior,FT,Senior Machine Learning Scientist,157000,USD,157000,US,100,US,L,Remote
+2024,Mid,FT,Robotics Engineer,109000,USD,109000,US,50,US,M,Hybrid
+2024,Entry,FT,Junior Data Miner,48000,USD,48000,US,0,US,S,On-site
+2024,Senior,FT,Data Governance Lead,134000,USD,134000,US,100,US,L,Remote
+2024,Mid,FT,Decision Scientist,95000,USD,95000,US,0,US,M,On-site
+2024,Executive,FT,Director of Data Strategy,212000,USD,212000,US,50,US,L,Hybrid
+2024,Entry,FT,Junior Analyst,50000,USD,50000,US,100,US,S,Remote
+2024,Mid,FT,Big Data Architect,114000,USD,114000,US,0,US,M,On-site
+2024,Senior,FT,Senior AI Developer,160000,USD,160000,US,50,US,L,Hybrid
+2024,Mid,FT,Data Storyteller,86000,USD,86000,US,100,US,M,Remote
+2024,Entry,FT,Data Clerk,41000,USD,41000,US,0,US,S,On-site
+2024,Senior,FT,Manager of Data Analytics,143000,USD,143000,US,50,US,L,Hybrid
+2024,Mid,FT,AI Research Engineer,113000,USD,113000,US,0,US,M,On-site
+2024,Executive,FT,Chief Analytics Officer,232000,USD,232000,US,100,US,L,Remote
+2024,Entry,FT,Junior Python Developer,56000,USD,56000,US,50,US,S,Hybrid
+2024,Mid,FT,Data Scientist,99000,USD,99000,US,0,US,M,On-site
+2024,Senior,FT,Senior Deep Learning Specialist,164000,USD,164000,US,100,US,L,Remote
+2024,Mid,FT,Database Developer,90000,USD,90000,US,50,US,M,Hybrid
+2024,Entry,FT,Operations Analyst,49000,USD,49000,US,0,US,S,On-site
+2024,Senior,FT,Lead Business Intelligence Analyst,132000,USD,132000,US,100,US,L,Remote
+2024,Mid,FT,Machine Learning Engineer,103000,USD,103000,US,0,US,M,On-site
+2024,Executive,FT,VP of AI,228000,USD,228000,US,50,US,L,Hybrid
+2024,Entry,FT,Junior Data Engineer,54000,USD,54000,US,100,US,S,Remote
+2024,Mid,FT,Data Analyst,85000,USD,85000,US,0,US,M,On-site
+2024,Senior,FT,Senior Data Scientist,141000,USD,141000,US,50,US,L,Hybrid
+2024,Mid,FT,AI Solution Architect,116000,USD,116000,US,100,US,M,Remote
+2024,Entry,FT,Technical Support Data,45000,USD,45000,US,0,US,S,On-site
+2024,Senior,FT,Principal Machine Learning Engineer,154000,USD,154000,US,50,US,L,Hybrid
+2024,Mid,FT,Data Quality Engineer,93000,USD,93000,US,0,US,M,On-site
+2024,Executive,FT,Head of Data Science,202000,USD,202000,US,100,US,L,Remote
+2024,Entry,FT,Junior Research Associate,53000,USD,53000,US,50,US,S,Hybrid
+2024,Mid,FT,Data Scientist,92000,USD,92000,US,0,US,M,On-site
+2024,Senior,FT,Senior Data Management Specialist,133000,USD,133000,US,100,US,L,Remote
+2024,Mid,FT,Computer Vision Specialist,108000,USD,108000,US,50,US,M,Hybrid
+2024,Entry,FT,Data Entry Clerk,39000,USD,39000,US,0,US,S,On-site
+2024,Senior,FT,Lead AI Scientist,159000,USD,159000,US,100,US,L,Remote
+2024,Mid,FT,Analytics Manager,110000,USD,110000,US,0,US,M,On-site
+2024,Executive,FT,Director of Analytics,215000,USD,215000,US,50,US,L,Hybrid
+2024,Entry,FT,Junior Business Analyst,52000,USD,52000,US,100,US,S,Remote
+2024,Mid,FT,Data Engineer,97000,USD,97000,US,0,US,M,On-site
+2024,Senior,FT,Senior Big Data Engineer,145000,USD,145000,US,50,US,L,Hybrid
+2024,Mid,FT,AI Researcher,112000,USD,112000,US,100,US,M,Remote
+2024,Entry,FT,Marketing Data Assistant,47000,USD,47000,US,0,US,S,On-site
+2024,Senior,FT,Staff Data Scientist,148000,USD,148000,US,50,US,L,Hybrid
+2024,Mid,FT,Machine Learning Operations,105000,USD,105000,US,0,US,M,On-site
+2024,Executive,FT,Chief Information Officer (Data),222000,USD,222000,US,100,US,L,Remote
+2024,Entry,FT,Junior Data Visualization,50000,USD,50000,US,50,US,S,Hybrid
+2024,Mid,FT,Data Analyst,82000,USD,82000,US,0,US,M,On-site
+2024,Senior,FT,Senior Statistician,130000,USD,130000,US,100,US,L,Remote
+2024,Mid,FT,NLP Specialist,104000,USD,104000,US,50,US,M,Hybrid
+2024,Entry,FT,Intern Data Engineer,44000,USD,44000,US,0,US,S,On-site
+2024,Senior,FT,Lead Data Specialist,136000,USD,136000,US,100,US,L,Remote
+2024,Mid,FT,Business Intelligence Developer,88000,USD,88000,US,0,US,M,On-site
+2024,Executive,FT,Global Data Director,206000,USD,206000,US,50,US,L,Hybrid
+2024,Entry,FT,Junior ETL Developer,51000,USD,51000,US,100,US,S,Remote
+2024,Mid,FT,Data Scientist,95000,USD,95000,US,0,US,M,On-site
+2024,Senior,FT,Senior AI Researcher,162000,USD,162000,US,50,US,L,Hybrid
+2024,Mid,FT,Cloud Architect (Data),115000,USD,115000,US,100,US,M,Remote
+2024,Entry,FT,Junior Database Admin,48000,USD,48000,US,0,US,S,On-site
+2024,Senior,FT,Principal Data Engineer,150000,USD,150000,US,50,US,L,Hybrid
+2024,Mid,FT,Financial Analyst (Data),84000,USD,84000,US,0,US,M,On-site
+2024,Executive,FT,Chief Digital Officer,226000,USD,226000,US,100,US,L,Remote
+2024,Entry,FT,Data Science Trainee,46000,USD,46000,US,50,US,S,Hybrid
+2024,Mid,FT,Machine Learning Engineer,102000,USD,102000,US,0,US,M,On-site
+2024,Senior,FT,Senior Data Consultant,138000,USD,138000,US,100,US,L,Remote
+2024,Mid,FT,AI Programmer,109000,USD,109000,US,50,US,M,Hybrid
+2024,Entry,FT,Junior Data Steward,43000,USD,43000,US,0,US,S,On-site
+2024,Senior,FT,Lead ML Engineer,153000,USD,153000,US,100,US,L,Remote
+2024,Mid,FT,Data Analyst,80000,USD,80000,US,0,US,M,On-site
+2024,Senior,FT,Senior Business Analyst,129000,USD,129000,US,50,US,L,Hybrid
+2024,Executive,FT,Head of AI Strategy,210000,USD,210000,US,100,US,L,Remote
+2024,Entry,FT,Junior Data Processor,42000,USD,42000,US,0,US,S,On-site
+2024,Mid,FT,Data Warehouse Engineer,96000,USD,96000,US,0,US,M,On-site
+2024,Senior,FT,Senior Robotics Engineer,147000,USD,147000,US,50,US,L,Hybrid
+2024,Mid,FT,Data Scientist,91000,USD,91000,US,100,US,M,Remote
+2024,Entry,FT,Assistant Data Analyst,49000,USD,49000,US,0,US,S,On-site
+2024,Senior,FT,Principal Business Intelligence,135000,USD,135000,US,100,US,L,Remote
+2024,Mid,FT,Machine Learning Technician,87000,USD,87000,US,50,US,M,Hybrid
+2024,Executive,FT,Director of Big Data,216000,USD,216000,US,0,US,L,On-site
+2024,Entry,FT,Junior AI Tester,55000,USD,55000,US,100,US,S,Remote
+2024,Mid,FT,Data Operations Specialist,89000,USD,89000,US,0,US,M,On-site
+2024,Senior,FT,Senior Cloud Data Engineer,143000,USD,143000,US,50,US,L,Hybrid
+2024,Mid,FT,AI Systems Engineer,114000,USD,114000,US,100,US,M,Remote
+2024,Entry,FT,Data Cataloguer,40000,USD,40000,US,0,US,S,On-site
+2024,Senior,FT,Lead Data Governance,139000,USD,139000,US,50,US,L,Hybrid
+2024,Mid,FT,Data Analyst,81000,USD,81000,US,0,US,M,On-site
+2024,Executive,FT,VP of Machine Learning,224000,USD,224000,US,100,US,L,Remote
